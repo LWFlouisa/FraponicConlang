@@ -1,3 +1,9 @@
+---
+layout: post
+title: Adjectives
+catagories: adjectives
+tags: adjectivesoneversion adjectivestwoversions
+---
 
 ## Adjectives With One Version
 batch - ebax<br />
