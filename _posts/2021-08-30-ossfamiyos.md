@@ -1,14 +1,20 @@
+---
+layout: post
+title: Os Sfamiyos
+catagories: Family
+tags: familymembers
+---
 
 ## Os Sfamiyos
 
 Or Family. These words are derived from French, but factoring in the Fraponic Alphabet.
 
-pede - Father
-mede - Mother
-sferede - Brother
-sfude - Sister
-cusfijere - Male Cousin
-cusfijera - Female Cousin
-cusfijeres - Both Cousins
-tanite - Aunt
-oji - Uncle
+pede - Father<br />
+mede - Mother<br />
+sferede - Brother<br />
+sfude - Sister<br />
+cusfijere - Male Cousin<br />
+cusfijera - Female Cousin<br />
+cusfijeres - Both Cousins<br />
+tanite - Aunt<br />
+oji - Uncle<br />
