@@ -4,10 +4,7 @@ title: Os Sfamiyos
 catagories: Family
 tags: familymembers
 ---
-
 ## Os Sfamiyos
-
-Or Family. These words are derived from French, but factoring in the Fraponic Alphabet.
 
 pede - Father<br />
 mede - Mother<br />
