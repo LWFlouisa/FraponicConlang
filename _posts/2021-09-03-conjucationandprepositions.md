@@ -14,6 +14,8 @@ at, to - ow<br />
 of - axo<br />
 am - swa<br />
 some - esoma<br />
+from - peru<br />
+where - uu<br />
 who - qi<br />
 than - qo<br />
 this - qe<br />
