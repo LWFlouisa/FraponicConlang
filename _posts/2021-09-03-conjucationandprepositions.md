@@ -15,6 +15,7 @@ of - axo<br />
 am - swa<br />
 some - esoma<br />
 from - peru<br />
+how - somene<br/ >
 where - uu<br />
 who - qi<br />
 than - qo<br />
