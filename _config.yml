@@ -32,7 +32,7 @@ minima:
     # Mastodon instances
     mastodon:
     - username: LWFlouisa
-       instance: pawoo.net
+      instance: https://pawoo.net
     # - username: jekyll2
     #   instance: example.com
 
