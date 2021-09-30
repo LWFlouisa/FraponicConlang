@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Personal Pronouns
+catagories: personalpronouns
+tags: pronouns personal warpronouns
 ---
 
 ## Personal Pronouns
