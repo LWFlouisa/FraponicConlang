@@ -85,27 +85,24 @@ This is the formal words for family members, which is the same as the
 French language. Extra emphasis is places on younger and older family
 members.
 
-    Les familla - Family (formal)
-    Les grands-parents - grandparents
-    Le grand-pere - grandpa (formal)
-    La grand-mère - grandma
-    L'oncle - Uncle (formal)
-    La tante - Aunt (formal)
-    Le pere - Father (formal)
-    La mere - Mother (formal)
-    Le frère -  Brother
-    La soeur - Sister
-    La wifu - Wife
-    Le mari - Husband
-    Le grand frère - Older brother
-    La grande soeur - Older sister
-    La soeur cadette - Younger sister
-    Le grande cadette - Younger brother
-    Le parrain - Godfather
-    La marraine - Godmother
-    
-
-    
+Les familla - Family (formal)
+Les grands-parents - grandparents
+Le grand-pere - grandpa (formal)
+La grand-mère - grandma
+L'oncle - Uncle (formal)
+La tante - Aunt (formal)
+Le pere - Father (formal)
+La mere - Mother (formal)
+Le frère -  Brother
+La soeur - Sister
+La wifu - Wife
+Le mari - Husband
+Le grand frère - Older brother
+La grande soeur - Older sister
+La soeur cadette - Younger sister
+Le grande cadette - Younger brother
+Le parrain - Godfather
+La marraine - Godmother
 
 Family In Informal Occassions
 
