@@ -29,3 +29,14 @@ Os Horisimos - Horror stories derived from the Mythical hunts of French mytholog
 Os Emisiteros - Hard boiled detective stories.
 
 Os Terilos - Spy thrillers and war stories set in Franco-Japanese America.
+
+## Sub Genres ( Horror )
+Os Horelisimos - Horror stories with mythology removed and focused on the horror real humans do.
+
+Os Horitecohogicos - Horror stories with a focused on technology.
+
+Os Horeterilos - Horror stories with a focus on dynamics similar to spy thrillers.
+
+Os Horemisiteros - Hard boiled horror fiction.
+
+Os Horunirelisimos - Horror fiction of a fantasy fiction dynamic but without magic, usually in magical realism form.
