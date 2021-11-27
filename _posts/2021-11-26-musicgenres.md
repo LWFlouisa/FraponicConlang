@@ -4,7 +4,7 @@ author: SRWeaver
 tags: musetos ethnicmusic battlemusic
 layout: post
 ---
-The traditional music genres, sense blended with French and Japanese music. Dueling music shares simularities with Desgarrada ( or battle royale ) music.
+The traditional music genres, sense blended with French and Japanese music. Dueling music shares simularities with Desgarrada ( or battle royale ) music. All traditional music is played in a mixture of Dorian Mode, Lydian, and Mixolydian and In Scale.
 
 ~~~
 Akodideru - Dueling accordions.
