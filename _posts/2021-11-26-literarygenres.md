@@ -40,3 +40,9 @@ Os Horeterilos - Horror stories with a focus on dynamics similar to spy thriller
 Os Horemisiteros - Hard boiled horror fiction.
 
 Os Horunirelisimos - Horror fiction of a fantasy fiction dynamic but without magic, usually in magical realism form.
+
+## Sub Genres ( Unirelisimos )
+Os Revotisoranedos - "Dreamweaves", woven threads of people's nightmares. Generally overlaps with Horunirelisimos.
+
+## Sub Genres ( Teconohogicos )
+Os Esoniropos - Technology focused stories about ghosts, aliens, and creatures.
