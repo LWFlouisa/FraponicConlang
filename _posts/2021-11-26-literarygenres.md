@@ -41,8 +41,13 @@ Os Horemisiteros - Hard boiled horror fiction.
 
 Os Horunirelisimos - Horror fiction of a fantasy fiction dynamic but without magic, usually in magical realism form.
 
+Os Cutonodos - A hyper specific subset of eroguro focused on beheadings exclusively.
+
 ## Sub Genres ( Unirelisimos )
 Os Revotisoranedos - "Dreamweaves", woven threads of people's nightmares. Generally overlaps with Horunirelisimos.
 
 ## Sub Genres ( Teconohogicos )
 Os Esoniropos - Technology focused stories about ghosts, aliens, and creatures.
+
+Os Cutenos - Technology focused stories about bugged or bleeding edge gadgets.
+  * Os Cutenosenodos - Technology focused stories about bleeding edge technology with plots that end in the MC's execution.
