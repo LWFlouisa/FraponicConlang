@@ -24,6 +24,8 @@ affordable - aboradaberu<br />
 settable - regarabehe<br />
 artistic - arutesiqe<br />
 bashful - etimire<br />
+non-materialist - niyubusudonexa<br />
+materialist - yubusudonexa<br />
 
 ## Adjectives With Two Versions
 alone - seul or hitori - eseru ( polite ) or hitori ( rude )<br />
