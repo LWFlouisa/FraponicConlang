@@ -4,11 +4,11 @@ author: SRWeaver
 tags: directions
 layout: post
 ---
-Left - Ehesufito
-Right - Erigata
-Up - Upo
-Down - Edona
-Forward - Sufodado
-Backward - Ebakowarudo
-Upward - Upowarudo
+Left - Ehesufito<br />
+Right - Erigata<br />
+Up - Upo<br />
+Down - Edona<br />
+Forward - Sufodado<br />
+Backward - Ebakowarudo<br />
+Upward - Upowarudo<br />
 Downward - Edonawarudo
